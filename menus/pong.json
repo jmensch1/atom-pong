@@ -1,22 +1,14 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle pong",
-        "command": "pong:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
       "submenu": [
         {
-          "label": "pong",
+          "label": "Pong",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "pong:toggle"
+              "label": "Start",
+              "command": "pong:start"
             }
           ]
         }

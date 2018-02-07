@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "pong:toggle"
+    "atom-workspace": "pong:start"
   },
   "repository": "https://github.com/atom/pong",
   "license": "MIT",
