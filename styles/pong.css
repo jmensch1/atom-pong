@@ -2,14 +2,17 @@
 #pong {
   width: 100%;
   height: 100%;
-  cursor: pointer;
   position: relative;
+  background-color: #1F1F23;
 }
 
 #pong canvas {
   width: 100%;
   height: 100%;
-  border: 4px solid #2AAAE2;
+  border-top: 4px solid #2AAAE2;
+  border-bottom: 4px solid #2AAAE2;
+  border-left: 2px dotted #2AAAE2;
+  border-right: 2px dotted #2AAAE2;
 }
 
 #pong .points {
@@ -20,12 +23,12 @@
   z-index: 2;
 }
 
-#pong .comp {
-  left: calc(50% - 50px);
+#pong .points.comp {
+  right: calc(50% + 25px);
   text-align: right;
 }
 
-#pong .user {
-  right: calc(50% - 50px);
+#pong .points.user {
+  left: calc(50% + 25px);
   text-align: left;
 }

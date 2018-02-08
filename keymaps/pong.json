@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "pong:start"
+    "ctrl-alt-cmd-o": "pong:start"
   }
 }

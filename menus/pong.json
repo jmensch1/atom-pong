@@ -7,7 +7,7 @@
           "label": "Pong",
           "submenu": [
             {
-              "label": "Start",
+              "label": "Play!",
               "command": "pong:start"
             }
           ]
