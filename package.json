@@ -1,7 +1,7 @@
 {
   "name": "pong",
   "main": "./lib/pong",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "pong",
   "keywords": [
     "pong",
