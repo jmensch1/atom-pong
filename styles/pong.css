@@ -44,6 +44,7 @@
   z-index: 2;
   font-size: 24px;
   letter-spacing: 0.7px;
+  color: white;
 }
 
 #pong .points {
