@@ -2,7 +2,7 @@
   "name": "pong",
   "main": "./lib/pong",
   "version": "0.1.1",
-  "description": "pong",
+  "description": "It's a game. It's called pong.",
   "keywords": [
     "pong",
     "game",
