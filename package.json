@@ -1,9 +1,13 @@
 {
   "name": "pong",
   "main": "./lib/pong",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "pong",
-  "keywords": ["pong", "game", "fun"],
+  "keywords": [
+    "pong",
+    "game",
+    "fun"
+  ],
   "activationCommands": {
     "atom-workspace": "pong:start"
   },
