@@ -3,11 +3,11 @@
   "main": "./lib/pong",
   "version": "0.0.0",
   "description": "pong",
-  "keywords": ["pong", "game"],
+  "keywords": ["pong", "game", "fun"],
   "activationCommands": {
     "atom-workspace": "pong:start"
   },
-  "repository": "https://github.com/atom/pong",
+  "repository": "https://github.com/jmensch1/atom-pong",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
