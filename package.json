@@ -1,7 +1,7 @@
 {
   "name": "pong",
   "main": "./lib/pong",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "It's a game. It's called pong.",
   "keywords": [
     "pong",
